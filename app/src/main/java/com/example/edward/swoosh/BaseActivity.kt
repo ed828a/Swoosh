@@ -3,7 +3,6 @@ package com.example.edward.swoosh
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
-import android.view.ActionMode
 
 open class BaseActivity:  AppCompatActivity() {
     val TAG = "LifeCycle"
